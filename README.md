@@ -1,2 +1,2 @@
-# davidg.github.io
+# davidg
 David Gallardo's Personal Website
